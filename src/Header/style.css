@@ -1,0 +1,14 @@
+.elevator-service_header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 8%;
+    background: #3DCD58;
+}
+
+h1 {
+    color: #fff;
+    margin: 0;
+    font-size: 40px;
+}

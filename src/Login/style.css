@@ -1,0 +1,14 @@
+.elevator-service_login {
+    width: 300px;
+    padding: 10px;
+    background: #fff;
+    border: 1px solid darkgray;
+    border-radius: 10px;
+    margin: auto;
+}
+
+.elevator-service_bottom-links {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}

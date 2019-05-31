@@ -1,0 +1,8 @@
+.elevator-service_table-wrapper {
+    width: 90%;
+    margin: 30px auto 0;
+}
+
+.elevator-service_menu {
+    overflow-x: scroll;
+}
